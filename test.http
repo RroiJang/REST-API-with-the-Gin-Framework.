@@ -9,3 +9,7 @@ Content-Type: application/json
     "title": "TheGod father",
     "author": "Mario Puzo"
 }
+
+###
+
+DELETE http://localhost:8080/books/2
